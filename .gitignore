@@ -5,3 +5,4 @@ _site
 Gemfile.lock
 *.code-workspace
 pictures_prev
+data_prev
